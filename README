@@ -1,6 +1,4 @@
-Here is a cleaned, concise, and anonymous-safe version with corrected spelling and minimal wording, while keeping your headings:
-
----
+# README
 
 This repository contains the experimental results used in the evaluation of a classification-based fault localization approach.
 
@@ -11,7 +9,3 @@ The `results` folder stores the issue classification results and the final predi
 ## Evaluation Criterion
 
 A predicted location is considered correct if it is a **superset of the ground-truth location**, consistent with the evaluation criterion used by the baseline methods.
-
----
-
-If you want it even more minimal (e.g., for strict artifact checks), I can compress this into 2–3 lines only.
