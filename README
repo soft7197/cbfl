@@ -1,0 +1,9 @@
+This repository contains the experimental results used in the evaluation of a classification-based fault localization approach.
+
+Structure
+
+The results folder stores the issue classification results and the final predicted buggy locations.
+
+Evaluation Criterion
+
+A predicted location is considered correct if it is a superset of the ground-truth location, consistent with the evaluation criterion used by the baseline methods.
